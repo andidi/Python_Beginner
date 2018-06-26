@@ -15,5 +15,5 @@ elif(BMI>=18.5):
     health = "正常體重"
 else:
     health = "過輕"
-print("你的BMI值為%.2f, %s"%(BMI,health))
+print("你的BMI值為%.2f,%s"%(BMI,health))
 input("按任意建後結束...")
